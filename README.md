@@ -1,4 +1,30 @@
-Screenshot
+# 🚀 Job Seeker Platform
+
+The Job Seeker Platform is a feature-rich web application that connects job seekers with potential employers. Built with React.js, Node.js, and MongoDB, this platform ensures secure authentication and seamless job application management.
+
+## ✨ Features
+✅ Secure user authentication with role-based access (Job Seekers & Employers)✅ Job Seekers can browse jobs, apply, and manage applications✅ Employers can post jobs, view applicants, and manage listings✅ CRUD operations for job postings✅ MongoDB-powered data storage for efficiency & integrity
+
+## 🛠 Technologies Used
+
+### Frontend: React.js
+
+### Backend: Node.js, Express.js
+
+### Database: MongoDB
+
+### Authentication: JWT (JSON Web Tokens)
+
+## 🚀 Installation & Setup
+
+Prerequisites:
+Ensure you have the following installed:
+Node.js
+MongoDB
+npm or yarn
+
+
+# Screenshot
 
 ![Screenshot (13)](https://github.com/ddeshav222/Job_seeker/assets/98301962/725b353f-16f9-45a0-807e-009c81b48996)
 ![Screenshot (20)](https://github.com/ddeshav222/Job_seeker/assets/98301962/13e40ee0-3091-46bf-b2f7-ed47c02b59fb)
