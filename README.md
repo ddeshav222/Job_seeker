@@ -8,7 +8,7 @@ The Job Seeker Platform is a feature-rich web application that connects job seek
 ## 🛠 Technologies Used
 
 ### Frontend: React.js
-jobs-seekers-wbst.netlify.app
+https://jobs-seekers-wbst.netlify.app
 
 ### Backend: Node.js, Express.js
 https://job-seeker-backend-deploy-1vt2.onrender.com
