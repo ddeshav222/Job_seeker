@@ -11,7 +11,6 @@ The Job Seeker Platform is a feature-rich web application that connects job seek
 https://jobs-seekers-wbst.netlify.app
 
 ### Backend: Node.js, Express.js
-https://job-seeker-backend-deploy-1vt2.onrender.com
 
 ### Database: MongoDB
 
@@ -34,3 +33,6 @@ npm or yarn
 ![Screenshot (17)](https://github.com/ddeshav222/Job_seeker/assets/98301962/f185275c-6d7d-4b5f-9760-0c3543b7f91c)
 ![Screenshot (16)](https://github.com/ddeshav222/Job_seeker/assets/98301962/ccaacee6-6ba7-4373-a956-6e93a2789286)
 ![Screenshot (15)](https://github.com/ddeshav222/Job_seeker/assets/98301962/4feb83fd-e69a-4a54-85b3-03b433494dc7)
+![Screenshot (11)](https://github.com/user-attachments/assets/d52fecb0-30fb-4d43-b5b3-15d4379eeac6)
+![Screenshot (12)](https://github.com/user-attachments/assets/d1fe45e0-1111-493b-a451-a796e22b8a05)
+
